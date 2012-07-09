@@ -1,0 +1,8 @@
+.block_findcourse ul {
+    list-style:none;
+    margin: 0;
+}
+
+.block_findcourse li a span {
+    vertical-align: top;
+}
