@@ -28,3 +28,5 @@ $string['pluginname'] = 'Find a Course';
 $string['pluginnameplural'] = 'Find Courses';
 $string['submit'] = 'Go';
 
+$string['submit_text'] = 'Text for Submit Button';
+$string['submit_pic'] = 'Image for Submit Button';
